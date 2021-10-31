@@ -10,3 +10,4 @@ RNA-seq of coding RNA from single cells, cell type comparison design, developmen
 ## Files
 scRNAseq.R: Details normlaization and analysis of E5.0 embryos and merger with Mohammed et al.
 Collagen_quantification.R: Quantification of collagen intensity from IF imaging
+merged_E5_mohammed.rds: Merged E5.0 and Mohammed et al. Seurat dataset
